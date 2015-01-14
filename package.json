@@ -1,0 +1,27 @@
+{
+  "name": "dummy-github-auto-pr-uke",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^2.6.4",
+    "node-github": "^0.0.3",
+    "prompt": "^0.2.14",
+    "shelljs": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/douglasduteil/dummy-github-auto-pr-uke.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/douglasduteil/dummy-github-auto-pr-uke/issues"
+  },
+  "homepage": "https://github.com/douglasduteil/dummy-github-auto-pr-uke"
+}
